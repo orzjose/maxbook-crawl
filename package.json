@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gm": "^1.23.1",
+    "puppeteer": "^14.0.0"
+  },
+  "name": "maxbook-crawl",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
